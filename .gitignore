@@ -1,5 +1,13 @@
+# Ignore virtual environment
 venv/
 __pycache__/
 *.pyc
+
+# Ignore environment variables
 .env
+
+# Ignore log files
 webhook_log.jsonl
+
+# VS Code settings (optional)
+.vscode/
