@@ -10,6 +10,8 @@ This project demonstrates how to create a secure Flask webhook endpoint and expo
 ---
 
 ## 📁 Project Structure
+> Logs are written to `webhook_log.jsonl` at runtime. This file is ignored by Git for privacy. See `webhook_log_example.jsonl` for format reference.
+
 
 ```
 flask_ngrok_demo/
